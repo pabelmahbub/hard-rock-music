@@ -6,7 +6,7 @@
 //     const data = await res.json();
 //     displaySongs(data.data);
 // }
-//shazam api:1587d40cafmsh0565833918631b0p146836jsn56439d049811
+
 
 const searchSongs = () => {
     const searchText = document.getElementById('search-field').value;
